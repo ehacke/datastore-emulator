@@ -1,0 +1,22 @@
+{
+  "name": "@ehacke/datastore-emulator",
+  "version": "1.0.0",
+  "description": "A [Google Cloud Datastore Emulator](https://cloud.google.com/datastore/docs/tools/datastore-emulator/) container image. The image is meant to be used for creating an standalone emulator for testing.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ehacke/datastore-emulator.git"
+  },
+  "keywords": [
+    "emulator"
+  ],
+  "author": "Eric Hacke",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ehacke/datastore-emulator/issues"
+  },
+  "homepage": "https://github.com/ehacke/datastore-emulator#readme"
+}
