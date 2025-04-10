@@ -1,6 +1,6 @@
 {
   "name": "@ehacke/datastore-emulator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A [Google Cloud Datastore Emulator](https://cloud.google.com/datastore/docs/tools/datastore-emulator/) container image. The image is meant to be used for creating an standalone emulator for testing.",
   "main": "index.js",
   "scripts": {
